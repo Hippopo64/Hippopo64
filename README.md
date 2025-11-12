@@ -43,7 +43,6 @@ Educational deep learning project implementing **MLP** and **CNN** from the grou
 ---
 
 ### Connect With Me  
-[hippolyte64@gmail.com](mailto:hippolyte64@gmail.com)  
 [LinkedIn](https://www.linkedin.com/in/hippolyte-dupont/)  
 [My GitHub Projects](https://github.com/Hippopo64)
 
